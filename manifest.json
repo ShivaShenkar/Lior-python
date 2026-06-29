@@ -2,7 +2,7 @@
   "id":"2",
   "name":"Lior's python language",
   "description":"Lior basically created python,he's the goat",
-  "version": "V1.0.0",
+  "version": "V2.0.0",
   "iconPath": "Python-logo-notext.jpg",
   "supportedOS": {"windows": "py.exe"}
 }
